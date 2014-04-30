@@ -1,4 +1,12 @@
 int a= 3;
+int b = 7;
 
 Console.WriteLine("kolejny gupi naspis");
+
+
 Console.ReadKey();
+
+
+
+
+public void{}
