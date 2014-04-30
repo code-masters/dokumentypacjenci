@@ -11,7 +11,7 @@ namespace bibdokumentypacjenty
         void a() { }
 
         int b = 5;
-        int c=4;
+        int c=3;
 
     }
 }
