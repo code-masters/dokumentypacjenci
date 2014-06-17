@@ -1,4 +1,4 @@
 int a= 3;
 
-Console.WriteLine("");
+Console.WriteLine("kolejny gupi naspis");
 Console.ReadKey();
